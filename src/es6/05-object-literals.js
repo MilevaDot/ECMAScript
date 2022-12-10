@@ -2,10 +2,10 @@
 
 function newUser(user, age, country, uId) {
     return {
-        user: user,
-        age: age,
-        country: country,
-        id: iId,
+        user,
+        age,
+        country,
+        id: uId,
     }
 }
 
